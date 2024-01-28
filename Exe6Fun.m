@@ -1,6 +1,3 @@
-%Ioannis Siakavaras
-%Christoforos Chatziantoniou
-
 function [rsq] = Group30Exe6Fun(x, y)
 
     %removing NaN values
