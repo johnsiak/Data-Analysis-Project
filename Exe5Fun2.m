@@ -1,6 +1,3 @@
-%Ioannis Siakavaras
-%Christoforos Chatziantoniou
-
 function [I, p, len] = Group30Exe5Fun2(x, y)
     
     I = Group30Exe5Fun1(x, y);
