@@ -1,6 +1,3 @@
-%Ioannis Siakavaras
-%Christoforos Chatziantoniou
-
 function [p1, p2, cont] = Group30Exe1Fun(x)
     if(length(unique(x)) > 10) %number of different values in vector x
         cont = 1; %continuous
