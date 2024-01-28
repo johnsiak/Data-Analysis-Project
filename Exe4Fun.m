@@ -1,6 +1,3 @@
-%Ioannis Siakavaras
-%Christoforos Chatziantoniou
-
 function [CI_Fisher, CI_Boot, p_par, p_perm, n] = Group30Exe4Fun(x, y)
 
     %removing NaN values
