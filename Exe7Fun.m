@@ -1,6 +1,3 @@
-%Ioannis Siakavaras
-%Christoforos Chatziantoniou
-
 function [model, adjRsquare] = Group30Exe7Fun(x, y)
     
     %removing NaN values
