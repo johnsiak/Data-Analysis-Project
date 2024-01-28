@@ -1,6 +1,3 @@
-%Ioannis Siakavaras
-%Christoforos Chatziantoniou
-
 function [adjRsq, p_perm] = Group30Exe8Fun(x, y)
 
     %erase NaN values
