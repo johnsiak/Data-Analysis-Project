@@ -1,6 +1,3 @@
-%Ioannis Siakavaras
-%Christoforos Chatziantoniou
-
 function [opt_model, opt_lambda] =  Group30Exe10Fun(y, X)
 
     %find the rows with observations for all indicators
