@@ -1,6 +1,3 @@
-%Ioannis Siakavaras
-%Christoforos Chatziantoniou
-
 function I = Group30Exe5Fun1(x, y)
 
     %removing NaN values
