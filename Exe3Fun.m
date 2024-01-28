@@ -1,6 +1,3 @@
-%Ioannis Siakavaras
-%Christoforos Chatziantoniou
-
 function [p_param, p_boot] = Group30Exe3Fun(years, x)
 
     for i=1:(length(years) - 1)
